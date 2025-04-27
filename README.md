@@ -15,5 +15,5 @@ Sistema de reservacion de cine en c++ donde el usuario puede comprar taquillas p
 ## Version history
 - **v1.0**: Varibles y funciones.
 - **v1.01**: Hacer la lista de peliculas, comidas, horarios y asientos.
-- **v1.02**: hacer el recibo.
+- **v1.02**: Hacer el recibo.
 - **v1.03**: Implementar la libreria de iomanip para organizar.
